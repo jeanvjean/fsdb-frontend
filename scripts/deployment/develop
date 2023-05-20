@@ -1,0 +1,8 @@
+-#!/bin/sh     
+ssh aku@dev-sos.akuproducts.com <<EOF       
+ cd dev/www/sos-app-develop
+ git pull --no-edit
+ npm install --production
+ npm run build
+ exit
+EOF

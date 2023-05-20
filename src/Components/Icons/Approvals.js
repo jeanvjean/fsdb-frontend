@@ -1,0 +1,17 @@
+
+import * as React from 'react';
+
+function ApprovalsSVG(props) {
+  return (
+<svg xmlns="http://www.w3.org/2000/svg" width="31.167" height="48.043" viewBox="0 0 31.167 48.043" {...props}>
+  <g id="Approvals" transform="translate(-0.083 -0.056)">
+    <path id="Fill_541" data-name="Fill 541" d="M29.167,48.043a1.99,1.99,0,0,1-1.046-.3l-12.537-7.7-12.537,7.7A2,2,0,0,1,0,46.043V2A2,2,0,0,1,2,0H29.167a2,2,0,0,1,2,2V46.043a2,2,0,0,1-2,2ZM15.584,35.7a2,2,0,0,1,1.047.3l10.536,6.474V8.445H4V42.466l10.537-6.474A2,2,0,0,1,15.584,35.7Z" transform="translate(0.083 0.056)" fill="#343532"/>
+    <path id="Fill_542" data-name="Fill 542" d="M11.877.44a1.5,1.5,0,0,0-2.121,0l-4.6,4.6-2.6-2.6A1.5,1.5,0,0,0,.44,4.561L4.1,8.217a1.5,1.5,0,0,0,2.124,0L11.877,2.56a1.5,1.5,0,0,0,0-2.121" transform="translate(10.339 18.736)" fill="#343532"/>
+  </g>
+</svg>
+
+
+  );
+}
+
+export default ApprovalsSVG;

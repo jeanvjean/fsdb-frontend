@@ -1,0 +1,339 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="791.018" height="806.51" viewBox="0 0 791.018 806.51">
+  <defs>
+    <filter id="Mask" x="243.992" y="104.916" width="265.772" height="547.081" filterUnits="userSpaceOnUse">
+      <feOffset dy="14" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Mask-2" x="312.026" y="319.51" width="138.112" height="138.112" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-2"/>
+      <feFlood flood-opacity="0.208"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Mask-3" x="346.194" y="353.057" width="71.018" height="74.745" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-3"/>
+      <feFlood flood-opacity="0.208"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <path id="Mask_2" data-name="Mask 2" d="M252.856,594.5C215.3,612.654,138.9,597.84,76.018,535.465,3,463.042-17.817,382.533,15.3,359.545c8.791-6.1,19.826-7.3,32.2-5.1A262.83,262.83,0,0,1,40.96,296.5c0-187.828,95.959-276.474,210.358-294.575C353.6-9.238,475.938,28.36,562.217,107.949c25.25,4.617,57.6,22.769,99.364,67.2C725.829,243.508,766.265,341.6,716.41,366.4c-12.844,6.391-26.766,3.717-41.006-4.461,11.837,158.286-56.049,250.9-229.267,268.629a323.768,323.768,0,0,1-32.978,1.67C357.986,632.24,302.993,618.473,252.856,594.5Z" transform="translate(0 0)" fill="#ededed" opacity="0.262"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Mask-4" data-name="Mask" width="263.994" height="548.167" rx="44" fill="#d8d8d8"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Mask-5" data-name="Mask" width="263.994" height="548.167" rx="44" fill="none"/>
+    </clipPath>
+    <filter id="Mask-6" x="243.992" y="104.916" width="265.772" height="547.081" filterUnits="userSpaceOnUse">
+      <feOffset dy="14" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-4"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-4">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Mask)">
+        <rect id="Mask-7" data-name="Mask" width="238.772" height="519.581" rx="29" fill="#fff"/>
+      </g>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <path id="Mask-8" data-name="Mask" d="M21,0H206.1a21,21,0,0,1,21,21V78.208a21,21,0,0,1-21,21H21a21,21,0,0,1-21-21V21A21,21,0,0,1,21,0Z" transform="translate(0)" fill="#d8d8d8"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <path id="Mask-9" data-name="Mask" d="M21,0H206.1a21,21,0,0,1,21,21V78.208a21,21,0,0,1-21,21H21a21,21,0,0,1-21-21V21A21,21,0,0,1,21,0Z" transform="translate(0)" fill="none"/>
+    </clipPath>
+    <filter id="Rectangle" x="258.583" y="95.031" width="113.73" height="20.407" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-5"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_Copy" x="259.423" y="114.368" width="80.1" height="20.407" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-6"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-7">
+      <ellipse id="Mask-10" data-name="Mask" cx="26.95" cy="26.535" rx="26.95" ry="26.535" fill="#7753f3"/>
+    </clipPath>
+    <clipPath id="clip-path-8">
+      <ellipse id="Mask-11" data-name="Mask" cx="26.95" cy="26.535" rx="26.95" ry="26.535" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-9">
+      <path id="Mask-12" data-name="Mask" d="M36.273,118.643l-5.62-19.395H21a21,21,0,0,1-21-21V21A21,21,0,0,1,21,0H206.1a21,21,0,0,1,21,21V78.248a21,21,0,0,1-21,21H78.584c-5.343,2.43-15.916,7.433-22.52,11.85L42.8,120.859a4.2,4.2,0,0,1-6.529-2.216Z" transform="translate(0)" fill="#d8d8d8"/>
+    </clipPath>
+    <clipPath id="clip-path-10">
+      <path id="Mask-13" data-name="Mask" d="M36.273,118.643l-5.62-19.395H21a21,21,0,0,1-21-21V21A21,21,0,0,1,21,0H206.1a21,21,0,0,1,21,21V78.248a21,21,0,0,1-21,21H78.584c-5.343,2.43-15.916,7.433-22.52,11.85L42.8,120.859a4.2,4.2,0,0,1-6.529-2.216Z" transform="translate(0)" fill="none"/>
+    </clipPath>
+    <filter id="Rectangle-2" x="258.583" y="209.372" width="113.73" height="20.407" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-7"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_Copy-2" x="259.423" y="228.709" width="80.1" height="20.407" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-8"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.032" y1="0.5" x2="0.979" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0.001" stop-opacity="0"/>
+      <stop offset="0.524"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="Mask-16" x="236.17" y="251.221" width="305.824" height="361.313" filterUnits="userSpaceOnUse">
+      <feOffset dx="8" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="16.5" result="blur-9"/>
+      <feFlood flood-opacity="0.337"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-13">
+      <path id="Union_2" data-name="Union 2" d="M10,262.313a10,10,0,0,1-10-10V10A10,10,0,0,1,10,0H196.824a10,10,0,0,1,10,10V252.313a10,10,0,0,1-10,10Z" fill="none"/>
+    </clipPath>
+    <filter id="Rectangle-3" x="287.644" y="475.889" width="186.875" height="18.726" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-10"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_Copy-3" x="287.644" y="491.863" width="102.801" height="18.726" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-11"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_Copy_2" x="287.644" y="508.678" width="186.875" height="18.726" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-12"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle-4" x="316.996" y="324.48" width="128.172" height="128.172" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-13"/>
+      <feFlood flood-opacity="0.208"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Mask-17" x="312.026" y="319.51" width="138.112" height="138.112" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-14"/>
+      <feFlood flood-opacity="0.208"/>
+      <feComposite operator="in" in2="blur-14"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-14">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Mask-2)">
+        <path id="Mask-18" data-name="Mask" d="M109.959,118.036a8.076,8.076,0,1,1,8.077,8.076A8.077,8.077,0,0,1,109.959,118.036ZM0,118.036a8.076,8.076,0,1,1,8.076,8.076A8.077,8.077,0,0,1,0,118.036ZM109.959,8.076a8.076,8.076,0,1,1,8.077,8.077A8.077,8.077,0,0,1,109.959,8.076ZM0,8.076a8.076,8.076,0,1,1,8.076,8.077A8.076,8.076,0,0,1,0,8.076Z" fill="#fff"/>
+      </g>
+    </clipPath>
+    <clipPath id="clip-path-15">
+      <path id="Mask-19" data-name="Mask" d="M109.959,118.036a8.076,8.076,0,1,1,8.077,8.076A8.077,8.077,0,0,1,109.959,118.036ZM0,118.036a8.076,8.076,0,1,1,8.076,8.076A8.077,8.077,0,0,1,0,118.036ZM109.959,8.076a8.076,8.076,0,1,1,8.077,8.077A8.077,8.077,0,0,1,109.959,8.076ZM0,8.076a8.076,8.076,0,1,1,8.076,8.077A8.076,8.076,0,0,1,0,8.076Z" fill="none"/>
+    </clipPath>
+    <filter id="Mask-20" x="346.194" y="353.057" width="71.018" height="74.745" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-15"/>
+      <feFlood flood-opacity="0.208"/>
+      <feComposite operator="in" in2="blur-15"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-16">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Mask-3)">
+        <path id="Mask-21" data-name="Mask" d="M43.857,62.745v-5.02H34.562V5.02H50.716l1.8,1.972V18.555h6.5V0H0V18.555H6.5V6.992L8.3,5.02H24.455V57.726H15.161v5.02Z" fill="#fff"/>
+      </g>
+    </clipPath>
+    <clipPath id="clip-path-17">
+      <path id="Mask-22" data-name="Mask" d="M43.857,62.745v-5.02H34.562V5.02H50.716l1.8,1.972V18.555h6.5V0H0V18.555H6.5V6.992L8.3,5.02H24.455V57.726H15.161v5.02Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-18">
+      <path id="Mask-23" data-name="Mask" d="M62.514,111.525l-.1.087L5.764,97.7A7.567,7.567,0,0,1,4.406,83.481L185.021.391,185.453,0l-.244.3.1-.045-.227.206-4.007,5,1.705-1.906L185.52.139,157.614,152.083a11.771,11.771,0,0,1-17.826,7.848l-38.122-23.885L73,166.934l-.084.287Z" transform="translate(0 0)" fill="#d8d8d8"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-3" x1="0.751" y1="0.649" x2="0.333" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.569"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.432" y1="0.25" x2="0.681" y2="0.595" xlink:href="#linear-gradient-3"/>
+    <linearGradient id="linear-gradient-5" x1="0.58" y1="0.904" x2="0.223" y2="0.118" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0"/>
+      <stop offset="1" stop-opacity="0.122"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="0.165" y1="0.856" x2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0"/>
+      <stop offset="1" stop-opacity="0.369"/>
+    </linearGradient>
+  </defs>
+  <g id="Hands" transform="translate(-127.734 -202.711)">
+    <g id="bg" transform="matrix(0.996, 0.087, -0.087, 0.996, 182.838, 202.711)">
+      <g id="color_5" data-name="color 5" transform="translate(0 0)">
+        <path id="Mask_2-2" data-name="Mask 2" d="M252.856,594.5C215.3,612.654,138.9,597.84,76.018,535.465,3,463.042-17.817,382.533,15.3,359.545c8.791-6.1,19.826-7.3,32.2-5.1A262.83,262.83,0,0,1,40.96,296.5c0-187.828,95.959-276.474,210.358-294.575C353.6-9.238,475.938,28.36,562.217,107.949c25.25,4.617,57.6,22.769,99.364,67.2C725.829,243.508,766.265,341.6,716.41,366.4c-12.844,6.391-26.766,3.717-41.006-4.461,11.837,158.286-56.049,250.9-229.267,268.629a323.768,323.768,0,0,1-32.978,1.67C357.986,632.24,302.993,618.473,252.856,594.5Z" transform="translate(0 0)" fill="#ededed"/>
+        <g id="color_5-2" data-name="color 5" transform="translate(0 0)" opacity="0.035" clip-path="url(#clip-path)">
+          <g id="color_5-3" data-name="color 5" transform="translate(-108.958 -132.547)">
+            <ellipse id="Oval" cx="451.621" cy="451.779" rx="451.621" ry="451.779" fill="#ff6f8b"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="phone" transform="translate(369.252 293.334)">
+      <g id="color_1" data-name="color 1" transform="translate(2.522 0)">
+        <rect id="Mask-24" data-name="Mask" width="263.994" height="548.167" rx="44" transform="translate(0)" fill="#d8d8d8"/>
+        <g id="color_1-2" data-name="color 1" transform="translate(0)" clip-path="url(#clip-path-2)">
+          <g id="color_1-3" data-name="color 1" transform="translate(-392.628 -286.694)">
+            <ellipse id="Oval-2" data-name="Oval" cx="549.007" cy="610.382" rx="549.007" ry="610.382" transform="translate(0 0)" fill="#56538b"/>
+          </g>
+        </g>
+        <rect id="Mask-25" data-name="Mask" width="263.994" height="548.167" rx="44" transform="translate(0)" fill="none"/>
+      </g>
+      <g id="screen" transform="translate(15.974 14.293)">
+        <g transform="matrix(1, 0, 0, 1, -257.49, -104.92)" filter="url(#Mask-6)">
+          <rect id="Mask-26" data-name="Mask" width="238.772" height="519.581" rx="29" transform="translate(257.49 104.92)" fill="#fff"/>
+        </g>
+        <g id="screen-2" data-name="screen" clip-path="url(#clip-path-4)">
+          <g id="color_8" data-name="color 8" transform="translate(-111.819 -470.818)">
+            <ellipse id="Oval-3" data-name="Oval" cx="321.165" cy="706.647" rx="321.165" ry="706.647" fill="#fff"/>
+          </g>
+          <rect id="Rectangle-5" data-name="Rectangle" width="238.772" height="519.581" rx="29" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="mail" transform="translate(288.54 334.531)">
+      <rect id="Mask-27" data-name="Mask" width="200.938" height="124.43" rx="23" fill="none"/>
+    </g>
+    <g id="message_2" data-name="message 2" transform="translate(295.976 267.271)">
+      <g id="color_8-2" data-name="color 8" transform="translate(0)">
+        <path id="Mask-28" data-name="Mask" d="M21,0H206.1a21,21,0,0,1,21,21V78.208a21,21,0,0,1-21,21H21a21,21,0,0,1-21-21V21A21,21,0,0,1,21,0Z" transform="translate(0)" fill="#d8d8d8"/>
+        <g id="color_8-3" data-name="color 8" clip-path="url(#clip-path-5)">
+          <g id="color_8-4" data-name="color 8" transform="translate(-164.153 -176.946)">
+            <ellipse id="Oval-4" data-name="Oval" cx="267.305" cy="223.588" rx="267.305" ry="223.588" fill="#e2eaff"/>
+          </g>
+        </g>
+        <path id="Mask-29" data-name="Mask" d="M21,0H206.1a21,21,0,0,1,21,21V78.208a21,21,0,0,1-21,21H21a21,21,0,0,1-21-21V21A21,21,0,0,1,21,0Z" transform="translate(0)" fill="none"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -168.24, -64.56)" filter="url(#Rectangle)">
+        <rect id="Rectangle-6" data-name="Rectangle" width="101.73" height="8.407" rx="4.204" transform="translate(264.58 99.03)" fill="#fff"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -168.24, -64.56)" filter="url(#Rectangle_Copy)">
+        <rect id="Rectangle_Copy-4" data-name="Rectangle Copy" width="68.1" height="8.407" rx="4.204" transform="translate(265.42 118.37)" fill="#fff"/>
+      </g>
+      <g id="color_6" data-name="color 6" transform="translate(24.411 22.22)">
+        <ellipse id="Mask-30" data-name="Mask" cx="26.95" cy="26.535" rx="26.95" ry="26.535" transform="translate(0 0)" fill="#fff"/>
+        <g id="color_6-2" data-name="color 6" transform="translate(0 0)" clip-path="url(#clip-path-7)">
+          <g id="color_6-3" data-name="color 6" transform="translate(-38.553 -40.9)">
+            <ellipse id="Oval-5" data-name="Oval" cx="68.498" cy="67.444" rx="68.498" ry="67.444" transform="translate(0 0)" fill="#7753f3"/>
+          </g>
+        </g>
+        <ellipse id="Mask-31" data-name="Mask" cx="26.95" cy="26.535" rx="26.95" ry="26.535" transform="translate(0 0)" fill="none"/>
+      </g>
+    </g>
+    <g id="message" transform="translate(295.976 381.613)">
+      <g id="color_8-6" data-name="color 8" transform="translate(0)">
+        <path id="Mask-32" data-name="Mask" d="M36.273,118.643l-5.62-19.395H21a21,21,0,0,1-21-21V21A21,21,0,0,1,21,0H206.1a21,21,0,0,1,21,21V78.248a21,21,0,0,1-21,21H78.584c-5.343,2.43-15.916,7.433-22.52,11.85L42.8,120.859a4.2,4.2,0,0,1-6.529-2.216Z" transform="translate(0)" fill="#d8d8d8"/>
+        <g id="color_8-7" data-name="color 8" clip-path="url(#clip-path-9)">
+          <g id="color_8-8" data-name="color 8" transform="translate(-164.153 -177.017)">
+            <ellipse id="Oval-6" data-name="Oval" cx="267.305" cy="223.679" rx="267.305" ry="223.679" fill="#e2eaff"/>
+          </g>
+        </g>
+        <path id="Mask-33" data-name="Mask" d="M36.273,118.643l-5.62-19.395H21a21,21,0,0,1-21-21V21A21,21,0,0,1,21,0H206.1a21,21,0,0,1,21,21V78.248a21,21,0,0,1-21,21H78.584c-5.343,2.43-15.916,7.433-22.52,11.85L42.8,120.859a4.2,4.2,0,0,1-6.529-2.216Z" transform="translate(0)" fill="none"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -168.24, -178.9)" filter="url(#Rectangle-2)">
+        <rect id="Rectangle-7" data-name="Rectangle" width="101.73" height="8.407" rx="4.204" transform="translate(264.58 213.37)" fill="#fff"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -168.24, -178.9)" filter="url(#Rectangle_Copy-2)">
+        <rect id="Rectangle_Copy-5" data-name="Rectangle Copy" width="68.1" height="8.407" rx="4.204" transform="translate(265.42 232.71)" fill="#fff"/>
+      </g>
+      <g id="color_6-5" data-name="color 6" transform="translate(24.411 23.06)">
+        <ellipse id="Mask-34" data-name="Mask" cx="26.95" cy="26.535" rx="26.95" ry="26.535" transform="translate(0 0)" fill="#fff"/>
+        <g id="color_6-6" data-name="color 6" transform="translate(0 0)" clip-path="url(#clip-path-7)">
+          <g id="color_6-7" data-name="color 6" transform="translate(-38.553 -40.9)">
+            <ellipse id="Oval-7" data-name="Oval" cx="68.498" cy="67.444" rx="68.498" ry="67.444" transform="translate(0 0)" fill="#7753f3"/>
+          </g>
+        </g>
+        <ellipse id="Mask-35" data-name="Mask" cx="26.95" cy="26.535" rx="26.95" ry="26.535" transform="translate(0 0)" fill="none"/>
+      </g>
+    </g>
+    <g id="shadow" transform="translate(301.992 838.138)">
+      <rect id="Rectangle-8" data-name="Rectangle" width="427.099" height="5.885" opacity="0.308" fill="url(#linear-gradient)"/>
+      <rect id="Rectangle-9" data-name="Rectangle" width="273.243" height="2.522" transform="translate(77.349 1.681)" opacity="0.308" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="text" transform="translate(405.404 491.75)">
+      <g transform="matrix(1, 0, 0, 1, -277.67, -289.04)" filter="url(#Mask-16)">
+        <rect id="Mask-36" data-name="Mask" width="206.824" height="262.313" rx="10" transform="translate(277.67 290.72)" fill="none"/>
+      </g>
+      <g id="Mask-37" data-name="Mask">
+        <rect id="Mask-38" data-name="Mask" width="206.824" height="262.313" rx="10" fill="#d8d8d8"/>
+        <rect id="Mask-39" data-name="Mask" width="206.824" height="262.313" rx="10" fill="none"/>
+      </g>
+      <g id="text-2" data-name="text" clip-path="url(#clip-path-13)">
+        <g id="color_7" data-name="color 7" transform="translate(-47.082 -154.697)">
+          <ellipse id="Oval-8" data-name="Oval" cx="161.844" cy="324.528" rx="161.844" ry="324.528" transform="translate(0 0)" fill="#56538b"/>
+        </g>
+        <rect id="Mask-40" data-name="Mask" width="206.824" height="262.313" rx="10" transform="translate(0 -0.841)" fill="none"/>
+        <g transform="matrix(1, 0, 0, 1, -277.67, -289.04)" filter="url(#Rectangle-3)">
+          <rect id="Rectangle-10" data-name="Rectangle" width="174.875" height="6.726" rx="3.363" transform="translate(293.64 479.89)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -277.67, -289.04)" filter="url(#Rectangle_Copy-3)">
+          <rect id="Rectangle_Copy-6" data-name="Rectangle Copy" width="90.801" height="6.726" rx="3.363" transform="translate(293.64 495.86)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -277.67, -289.04)" filter="url(#Rectangle_Copy_2)">
+          <rect id="Rectangle_Copy_2-2" data-name="Rectangle Copy 2" width="174.875" height="6.726" rx="3.363" transform="translate(293.64 512.68)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="text-3" data-name="text" transform="translate(40.356 34.471)">
+        <g transform="matrix(1, 0, 0, 1, -318.03, -323.51)" filter="url(#Rectangle-4)">
+          <path id="Rectangle-11" data-name="Rectangle" d="M3.106,116.172A3.106,3.106,0,0,1,0,113.066V3.106A3.106,3.106,0,0,1,3.106,0h109.96a3.106,3.106,0,0,1,3.106,3.106v109.96a3.106,3.106,0,0,1-3.106,3.106Z" transform="translate(323 328.48)" fill="#fff"/>
+        </g>
+        <path id="Rectangle-12" data-name="Rectangle" d="M113.066,116.172H3.106A3.11,3.11,0,0,1,0,113.066V3.106A3.11,3.11,0,0,1,3.106,0h109.96a3.11,3.11,0,0,1,3.106,3.106v109.96A3.11,3.11,0,0,1,113.066,116.172ZM3.106,3.106v109.96h109.96V3.106Z" transform="translate(4.97 4.97)" fill="none"/>
+        <g transform="matrix(1, 0, 0, 1, -318.03, -323.51)" filter="url(#Mask-17)">
+          <path id="Mask-41" data-name="Mask" d="M109.959,118.036a8.076,8.076,0,1,1,8.077,8.076A8.077,8.077,0,0,1,109.959,118.036ZM0,118.036a8.076,8.076,0,1,1,8.076,8.076A8.077,8.077,0,0,1,0,118.036ZM109.959,8.076a8.076,8.076,0,1,1,8.077,8.077A8.077,8.077,0,0,1,109.959,8.076ZM0,8.076a8.076,8.076,0,1,1,8.076,8.077A8.076,8.076,0,0,1,0,8.076Z" transform="translate(318.03 323.51)" fill="#fff"/>
+        </g>
+        <g id="text-4" data-name="text" clip-path="url(#clip-path-14)">
+          <g id="color_8-10" data-name="color 8" transform="translate(-223.647 -201.282)">
+            <ellipse id="Oval-9" data-name="Oval" cx="280.801" cy="277.073" rx="280.801" ry="277.073" fill="#fff"/>
+          </g>
+        </g>
+        <path id="Mask-42" data-name="Mask" d="M109.959,118.036a8.076,8.076,0,1,1,8.077,8.076A8.077,8.077,0,0,1,109.959,118.036ZM0,118.036a8.076,8.076,0,1,1,8.076,8.076A8.077,8.077,0,0,1,0,118.036ZM109.959,8.076a8.076,8.076,0,1,1,8.077,8.077A8.077,8.077,0,0,1,109.959,8.076ZM0,8.076a8.076,8.076,0,1,1,8.076,8.077A8.076,8.076,0,0,1,0,8.076Z" fill="none"/>
+        <g id="color_8-11" data-name="color 8" transform="translate(34.168 33.547)">
+          <g transform="matrix(1, 0, 0, 1, -352.19, -357.06)" filter="url(#Mask-20)">
+            <path id="Mask-43" data-name="Mask" d="M43.857,62.745v-5.02H34.562V5.02H50.716l1.8,1.972V18.555h6.5V0H0V18.555H6.5V6.992L8.3,5.02H24.455V57.726H15.161v5.02Z" transform="translate(352.19 357.06)" fill="#fff"/>
+          </g>
+          <g id="color_8-12" data-name="color 8" transform="translate(0)" clip-path="url(#clip-path-16)">
+            <g id="color_8-13" data-name="color 8" transform="translate(-157.795 -208.116)">
+              <ellipse id="Oval-10" data-name="Oval" cx="232.034" cy="236.072" rx="232.034" ry="236.072" fill="#fff"/>
+            </g>
+          </g>
+          <path id="Mask-44" data-name="Mask" d="M43.857,62.745v-5.02H34.562V5.02H50.716l1.8,1.972V18.555h6.5V0H0V18.555H6.5V6.992L8.3,5.02H24.455V57.726H15.161v5.02Z" transform="translate(0)" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="paper_plane" data-name="paper plane" transform="translate(572.33 627.125) rotate(8)">
+      <path id="Oval-11" data-name="Oval" d="M78.391,153.016c35.048,0,74.625-13.994,74.625-48.971S144.735,0,109.688,0,0,53.58,0,88.557,43.343,153.016,78.391,153.016Z" transform="translate(32.335 80.186)" fill="rgba(0,0,0,0.25)"/>
+      <g id="color_2" data-name="color 2" transform="translate(0 0)">
+        <path id="Mask-45" data-name="Mask" d="M62.514,111.525l-.1.087L5.764,97.7A7.567,7.567,0,0,1,4.406,83.481L185.021.391,185.453,0l-.244.3.1-.045-.227.206-4.007,5,1.705-1.906L185.52.139,157.614,152.083a11.771,11.771,0,0,1-17.826,7.848l-38.122-23.885L73,166.934l-.084.287Z" transform="translate(0 0)" fill="#d8d8d8"/>
+        <g id="color_2-2" data-name="color 2" clip-path="url(#clip-path-18)">
+          <g id="color_2-3" data-name="color 2" transform="translate(-99.281 -130.283)">
+            <ellipse id="Oval-12" data-name="Oval" cx="214.264" cy="225.471" rx="214.264" ry="225.471" fill="#fff"/>
+          </g>
+          <path id="Path_41" data-name="Path 41" d="M0,125.405l54.885,34.387a11.77,11.77,0,0,0,17.826-7.848L100.617,0Z" transform="translate(84.745 0.724)" fill="url(#linear-gradient-3)"/>
+          <path id="Path_40" data-name="Path 40" d="M4.409,83.5A7.567,7.567,0,0,0,5.727,97.711l58.058,14.565L186.171,0Z" transform="translate(-0.141 0.062)" fill="url(#linear-gradient-4)"/>
+          <path id="Path_42" data-name="Path 42" d="M0,111.43l10.557,54.285,12.119-40.657L122.956,0Z" transform="translate(62.407 1.254)" fill="url(#linear-gradient-5)"/>
+          <path id="Path_5" data-name="Path 5" d="M28.767,9.6,12.119,0,0,40.657Z" transform="translate(72.964 126.312)" fill="url(#linear-gradient-6)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
